@@ -3,4 +3,7 @@ def class definition
     adele_goldberg = (person.new)
   end
   
-  def class defini
+  def class definition
+    class definition(person.new)
+      alan_kay = (person.new)
+    end
